@@ -1,7 +1,18 @@
+.nav-link {
+    color: #00073a;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+
+
 .fa-github,
 .fa-linkedin {
     color: #00073a;
     padding-right: 15px;
+    float: right;
 }
 
 .fa-github:hover,
