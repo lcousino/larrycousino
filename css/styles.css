@@ -1,0 +1,10 @@
+.fa-github,
+.fa-linkedin {
+    color: #00073a;
+    padding-right: 15px;
+}
+
+.fa-github:hover,
+.fa-linkedin:hover {
+    color: #ff6504;
+}
