@@ -8,3 +8,17 @@
 .fa-linkedin:hover {
     color: #ff6504;
 }
+
+.jt-hr{
+    background-color: #fff;
+    color: #fff;
+}
+
+.jumbotron {
+    background-color: #00073a;
+}
+
+.jt-p {
+    width: 70%;
+    margin: auto;
+}
