@@ -1,5 +1,6 @@
 .nav-link,
-#skils,
+#skills,
+#projects,
 #contact {
     color: #00073a;
 }
@@ -27,8 +28,7 @@
     color: #fff;
 }
 
-.jumbotron,
-#projects {
+.jumbotron {
     background-color: #00073a;
 }
 
@@ -40,6 +40,27 @@
 .jumbotron {
     border-radius: 0;
 }
+
+#skills,
+#projects,
+#contact {
+    Width: 100%;
+ 
+}
+
+.inner,
+.sk-container {
+    width: 70%;
+    margin: auto;
+}
+
+.col-sm {
+    margin: 1%;
+    border: 1px solid #00073a;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
 
 footer {
     text-align: center;
