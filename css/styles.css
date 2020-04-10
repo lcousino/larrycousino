@@ -1,4 +1,6 @@
-.nav-link {
+.nav-link,
+#skils,
+#contact {
     color: #00073a;
 }
 
@@ -25,11 +27,28 @@
     color: #fff;
 }
 
-.jumbotron {
+.jumbotron,
+#projects {
     background-color: #00073a;
 }
 
 .jt-p {
     width: 70%;
     margin: auto;
+}
+
+.jumbotron {
+    border-radius: 0;
+}
+
+footer {
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    clear: both; 
+    z-index: 10; 
+    height: 3em;
+    padding-top: .75em; 
+    color: #00073a;
 }
