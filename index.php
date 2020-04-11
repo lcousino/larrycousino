@@ -59,6 +59,7 @@
             <p class="lead">Full Stack Web Developer</p>
             <hr class="my-4 jt-hr">
             <p class="jt-p text-justify">I am a creative, engaging and determined, full stack developer with a passion for front-end development and UI Design. My experience has taught me to focus on customer satisfaction through teamwork, while maintaining a commitment to exceed expectations. Actively pursuing opportunities to provide programming skills, leadership, and enthusiasm to a fast-paced environment as a full stack developer. As a 21-year United States Air Force Veteran, I am a proven leader, dedicated team player, confident decision maker who works well under pressure and improvises on the fly!</p>
+            <button class="btn btn-info rsm-btn" onclick="window.open('resume.html', '_blank')">View Resume</button>
         </div>
 
         <!-- Skills -->
@@ -103,14 +104,18 @@
                     </div>
                   </div>
             </div>
-
+            <div class="hr">
+                <hr class="my-4 pg-hr">
+            </div>
             <!-- Projects -->
             <div id="projects">
                 <div class="inner">
                     <h2 class="display-4">Projects</h2>
                 </div>
             </div>
-
+            <div class="hr">
+                <hr class="my-4 pg-hr">
+            </div>
             <!-- Contact -->
             <div id="contact">
                 <div class="inner">
@@ -122,7 +127,7 @@
                         <input name="email" type="email" class="form-control" placeholder="Your e-mail address" required>
                         <input name="subject" type="text" class="form-control" placeholder="Subject">
                         <textarea name="message" class="form-control" placeholder="Message" row="4" required></textarea>
-                        <button name="submit" type="submit" class="form-control submit btn-dark">Send Message</button>
+                        <button name="submit" type="submit" class="form-control submit btn-info">Send Message</button>
                     </form>
                 </div>
             </div>
