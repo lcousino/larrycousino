@@ -117,14 +117,12 @@
                     <h2 class="display-4">Contact Me</h2>
                 </div>
                 <div class="form">
-                    <form id="contact-form" method="post" action="contact-form-handler.php">
+                    <form class="contact-form" method="post" action="contact-form-handler.php">
                         <input name="name" type="text" class="form-control" placeholder="Your Name" required>
-                        </br>
-                        <input name="email" type="email" class="form-control" placeholder="Your email" required>
-                        </br>
+                        <input name="email" type="email" class="form-control" placeholder="Your e-mail address" required>
+                        <input name="subject" type="text" class="form-control" placeholder="Subject">
                         <textarea name="message" class="form-control" placeholder="Message" row="4" required></textarea>
-                        </br>
-                        <button type="submit" class="form-control submit btn-dark">Send Message</button>
+                        <button name="submit" type="submit" class="form-control submit btn-dark">Send Message</button>
                     </form>
                 </div>
             </div>
