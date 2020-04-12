@@ -1,0 +1,118 @@
+.nav-link,
+#skills,
+#projects,
+#contact {
+    color: #00073a;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+
+
+.fa-github,
+.fa-linkedin {
+    color: #00073a;
+    padding-right: 15px;
+    float: right;
+}
+
+.fa-github:hover,
+.fa-linkedin:hover {
+    color: #ff6504;
+}
+
+.jt-hr{
+    background-color: #fff;
+    color: #fff;
+}
+
+.jumbotron {
+    padding-top: 9%;
+    background-color: #00073a;
+}
+
+.jt-p {
+    width: 70%;
+    margin: auto;
+}
+
+.jumbotron {
+    border-radius: 0;
+}
+
+#skills,
+#projects,
+#contact {
+    Width: 100%;
+ 
+}
+
+.inner,
+.sk-container,
+.pj-container,
+.form {
+    width: 70%;
+    margin: auto;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.col-sm {
+    margin: 1%;
+    border: 1px solid #00073a;
+    border-radius: 5px;
+    padding-top: 5px;
+}
+
+
+footer {
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    clear: both; 
+    z-index: 10; 
+    height: 3em;
+    padding-top: .75em; 
+    color: #00073a;
+    margin-top: 5%
+}
+
+.pg-hr {
+    background-color: #00073a;
+    color: #00073a;
+    width: 75%;
+}
+
+.hr {
+    margin-top: 3.5%;
+    margin-bottom: 3.5%;
+}
+/*** Resume and Resume Button from Index ***/
+#resume {
+    padding: 20px;
+}
+.resume {
+    width: 100%;
+    height: 1000px;
+    margin: auto;
+}
+
+/*** Button ***/
+.rsm-btn,
+.submit {
+    margin-top: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #00073a;
+}
+
+.rsm-btn:hover,
+.submit:hover {
+    background-color: #ff6504;
+    color: #00073a;
+}
