@@ -96,7 +96,7 @@
                         <p>MongoDB</p>
                       </div>
                       <div class="col-sm text-center">
-                        <p><i class="fas fa-share-alt fa-3x"></i></p>
+                        <p><i class="fas fa-code-branch fa-3x"></i></p>
                         <h3>DEPLOY</h3>
                         <p class="mb-0">AWS</p>
                         <p>Git</p>
@@ -112,6 +112,19 @@
                 <div class="inner">
                     <h2 class="display-4">Projects</h2>
                 </div>
+                <div class="pj-container">
+                    <div class="row justify-content-around">
+                      <div class="col-sm text-center">
+                        <h3>Message Posting Application</h3>
+                        <p class="mb-0">Purpose</p>
+                        <p class="mb-0">FE Tech</p>
+                        <p class="mb-0">BE Tech</p>
+                        <p class="mb-0">Database</p>
+                        <p class="mb-0">GitHub Link</p>
+                        <p>Screen shot up top</p>
+                      </div>
+                    </div>
+                  </div>
             </div>
             <div class="hr">
                 <hr class="my-4 pg-hr">
